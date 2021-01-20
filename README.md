@@ -7,9 +7,8 @@ THIS REPOSITORY WITH SOLUTION CODE PRIVATE.**
 
 # Distributed Systems Labs and Framework
 
-[Ellis Michael](http://ellismichael.com/)  
-*University of Washington*
-
+Originally developed by [Ellis Michael](http://ellismichael.com/) @ *University of Washington*. 
+This fork is used in CS 505 @ Purdue University. 
 
 DSLabs is a new framework for creating, testing, model checking, visualizing,
 and debugging distributed systems lab assignments.
@@ -162,6 +161,5 @@ progress. There are more features planned, and we welcome pull requests.
 
 ## Contact
 Bug reports and feature requests should be submitted using the GitHub issues
-tool. Email Ellis Michael (emichael@cs.washington.edu) with any other questions.
+tool. 
 
-If you use these labs in a course you teach, I'd love to hear from you!
