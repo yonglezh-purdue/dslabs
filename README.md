@@ -129,9 +129,6 @@ the [MIT 6.824 Labs](http://nil.csail.mit.edu/6.824/2015/). The finished product
 is a system whose core design is very similar to production storage systems like
 Google's Spanner.
 
-We have used the DSLabs framework and assignments in distributed systems classes
-at the University of Washington.
-
 
 ## Directory Overview
 - `framework/src` contains the interface students program against.
